@@ -1338,7 +1338,7 @@ function Footer() {
               Team Realium
             </div>
             <div className="mt-1 text-sm text-foreground/85">
-              Ananthanarayan · Bahniman · Nandini · Srishti · Uditanshu
+              Ananthanarayan · FerventClavier · Nandini · Srishti · Uditanshu
             </div>
           </div>
           <div className="font-mono text-[11px] text-foreground/50">
